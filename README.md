@@ -31,7 +31,10 @@ It's 100% free and mobile-friendly — no sign-up required.
 
 📸 Preview
 
-(Optional: add more screenshots or GIFs to help with image SEO and user trust)
+![Calculator UI](assets/growagardencalculator.world.png)
+
+![Value Calculator UI](assets/growagardenvaluecalculator.world.png)
+
 
 📌 Why Use This Tool?
 Many players waste time planting low-profit crops or waiting too long between harvests. This calculator helps you:
